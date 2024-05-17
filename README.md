@@ -1,3 +1,1 @@
-Plugin de evento
-  Eventos:
-      - Mlg sumo
+Plugin em desevolvimento...
